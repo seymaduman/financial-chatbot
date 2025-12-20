@@ -1,0 +1,28 @@
+# Web Scraping
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Vector Database & Embeddings
+chromadb>=0.4.0
+sentence-transformers>=2.2.0
+
+# LLM Integration
+ollama>=0.1.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+yfinance>=0.2.32
+
+# NLP & Sentiment Analysis
+textblob>=0.17.0
+nltk>=3.8.0
+
+# Utilities
+python-dateutil>=2.8.0
+rich>=13.0.0
+
+# Web Interface
+streamlit>=1.28.0
+plotly>=5.18.0
