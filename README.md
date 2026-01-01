@@ -152,3 +152,6 @@ Tüm sistem ayarlarının merkezi olarak yönetilmesini sağlar. Ollama sunucu a
 ## Yasal Uyarı
 
 Bu proje **eğitim ve araştırma amaçlıdır**. Üretilen finansal analizler ve tahminler yatırım tavsiyesi niteliği taşımaz. Yatırım kararları almadan önce lütfen yetkili bir finans danışmanına başvurunuz. Yapay zeka modelleri öngörülemeyen durumlarda hatalı veya eksik bilgi üretebilir.
+
+
+<img width="1821" height="797" alt="11" src="https://github.com/user-attachments/assets/570eff46-5975-4dc8-8026-37843723bafb" />
