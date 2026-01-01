@@ -38,7 +38,7 @@ Sistem, modüler bir yapıda tasarlanmış olup şu ana bileşenlerden oluşmakt
 Aşağıda projenin detaylı dosya yapısı ve açıklamaları yer almaktadır:
 
 ```text
-komutmuh_final/
+financial-chatbot/
 ├── app.py                      # Web Uygulaması (Streamlit) Başlangıç Dosyası
 ├── main.py                     # CLI (Komut Satırı) Başlangıç Dosyası
 ├── config.py                   # Merkezi Konfigürasyon Ayarları
@@ -84,8 +84,8 @@ Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları takip 
 
 1.  **Depoyu Klonlayın:**
     ```bash
-    git clone https://github.com/seymaduman/komutmuh_final.git
-    cd komutmuh_final
+    git clone https://github.com/seymaduman/financial-chatbot.git
+    cd financial-chatbot
     ```
 
 2.  **Sanal Ortam Oluşturun (Önerilen):**
@@ -129,17 +129,7 @@ Uygulama, varsayılan tarayıcınızda otomatik olarak `http://localhost:8501` a
 *   **Hızlı Analiz (Quick Analysis):** Hazır analiz butonları ile hızlıca rapor alınabilir.
 *   **Görselleştirme:** Fiyat grafikleri sohbet akışı içerisinde sunulur.
 
-### 2. Komut Satırı Arayüzü (CLI)
-Hızlı sorgular veya terminal üzerinden kullanım için:
-```bash
-python main.py
-```
-Tekil sorgu modu için:
-```bash
-python main.py --query "AAPL hisse fiyatı nedir?"
-```
 
----
 
 ## Modül Detayları
 
